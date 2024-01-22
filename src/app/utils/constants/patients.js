@@ -1,0 +1,2 @@
+export const PATIENT_LIST = "PATIENT_LIST";
+export const PATIENT_DATA = "PATIENT_DATA";

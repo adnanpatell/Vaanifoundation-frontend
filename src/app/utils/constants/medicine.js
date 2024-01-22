@@ -1,0 +1,2 @@
+export const MEDICINE_LIST = "MEDICINE_LIST";
+export const MEDICINE_DATA = "MEDICINE_DATA";
